@@ -6,7 +6,7 @@
 
 #define DEFAULT_USER "root"
 #define DEFAULT_SHELL "/bin/bash"
-#define CREDITS "please - please don't take me too seriously.\nMade by Cynthia Revström <me@cynthia.is> - https://cynthia.is\n"
+#define CREDITS "please - please don't take me too seriously.\nMade by Cynthia Revström <me@cynthia.re> - https://cynthia.re\n"
 
 int main(int argc, char** argv)
 {
